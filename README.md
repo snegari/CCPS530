@@ -28,6 +28,8 @@ Adafruit sells this microcontroller under the brand name Feather Huzzah.
 MCP 9808 is a digital temperature sensor with a wide measurement range of -40 C to +125 C, with a resolution of 0.0625 C and an accuracy of +/- 0.25 C. It uses I2C standard for transferring the data. 
 The input DC voltage is 2.7 V to 5.5 V, and operating current is 200 micro A. 
 
+![First Photo](https://github.com/snegari/CCPS530/blob/master/img/530_1.jpg)
+
 # Firmware 
 Python and Flask are used for this project. Therefore, I needed to wipe out the flash on the microcontroller (it was set up for Arduino IDE) and install micropython on it. The steps as explained by Peter Kazarinoff [Python for Undergraduate Engineers](pythonforundergradengineers.com) are as follows: 
 
@@ -407,7 +409,6 @@ Two additional webpages are created using templates from [W3 Schools](w3schools.
 # Attachments
 #Project Photos: 
 
-![Microcontroller+Sensor](https://markdown-here.com/img/icon256.png)
 ![First Photo](https://github.com/snegari/CCPS530/blob/master/img/530_1.jpg)
 ![Second Photo](https://github.com/snegari/CCPS530/blob/master/img/530_2.jpg)
 
