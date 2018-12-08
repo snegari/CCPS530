@@ -12,7 +12,7 @@
 ----
 
 # Introduction
-Measuring and gathering *electircal signals* from, and *environmental parameters* at each and every nodes of the electric grid is a prerquisite for ensuring safe and reliable operation of the grid. There are thousands of electrical substations and generating stations connected to the transmission grid, and to keep this giant system up and running, grid controllers need to collect and monitor network parameters from several hundred kilometers away. 
+Measuring and gathering *electrical signals* from, and *environmental parameters* at each and every nodes of the electric grid is a prerequisite for ensuring safe and reliable operation of the grid. There are thousands of electrical substations and generating stations connected to the transmission grid, and to keep this giant system up and running, grid controllers need to collect and monitor network parameters from several hundred kilometers away. 
 
 In this project, I intend to measure one parameter and use the internet to send the information to a webpage accessible from everywhere. I've used a microcontroller and temperature sensor to measure the temperature and transmit the info using TCP/IP protocol. 
 
