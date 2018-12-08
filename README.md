@@ -76,8 +76,9 @@ conda activate micropython
 (micropython) esptool --port COM5 --baud 460800 write_flash --flash_size=detect 0 esp8266-20171101-v1.9.3.bin
 
 ```
-Now, we can use PuTTY to connect to the microcontroller and directly code or use the micropython interpreter. 
+Now, we can use PuTTY to connect to the microcontroller via USB cable and directly code or use the micropython interpreter. 
 
+![Second Photo](https://github.com/snegari/CCPS530/blob/master/img/530_2.jpg)
 
 ## Transferring files to microcontroller
 > 1. Install __ampy__ with __pip__
