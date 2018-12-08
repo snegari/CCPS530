@@ -23,7 +23,7 @@ In this project, I intend to measure one parameter and use the internet to send 
 
 
 # Hardware
-A readily available and low-cost microcontrller (ESP 8266) and a temperature sensor MCP 9808 are employed for this project. 
+A readily available and low-cost microcontroller (ESP 8266) and a temperature sensor MCP 9808 are employed for this project. 
 
 ## ESP 8266, Microcontroller
 
