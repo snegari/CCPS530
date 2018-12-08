@@ -408,8 +408,8 @@ Two additional webpages are created using templates from [W3 Schools](w3schools.
 #Project Photos: 
 
 ![Microcontroller+Sensor](https://markdown-here.com/img/icon256.png)
-![First Photo](../img/530_1.jpg)
-![Second Photo](../img/530_2.jpg)
+![First Photo](https://github.com/snegari/CCPS530/blob/master/img/530_1.jpg)
+![Second Photo](https://github.com/snegari/CCPS530/blob/master/img/530_2.jpg)
 
 # Video Clip
 
