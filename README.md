@@ -17,6 +17,8 @@ Measuring and gathering *electrical signals* from, and *environmental parameters
 In this project, I intend to measure one parameter and use the internet to send the information to a webpage accessible from everywhere. I've used a microcontroller and temperature sensor to measure the temperature and transmit the info using TCP/IP protocol. 
 
 ![Project Intro](https://github.com/snegari/CCPS530/blob/master/clip/ccps530_snegari.mp4)
+
+
 [Project Intro on YouTube](https://youtu.be/zsKiXHkxs1I)
 
 
